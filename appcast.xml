@@ -6,6 +6,16 @@
     <description>Big-Timer release feed</description>
     <language>en</language>
     <item>
+      <title>0.2.2</title>
+      <pubDate>Mon, 02 Nov 2026 21:53:15 +0000</pubDate>
+      <sparkle:version>141</sparkle:version>
+      <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/Big-Time-Data/big-timer-releases/releases/tag/v0.2.2</link>
+      <description>&lt;h3&gt;Big-Timer 0.2.2&lt;/h3&gt;&lt;p&gt;See the release page for details.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/Big-Time-Data/big-timer-releases/releases/download/v0.2.2/BigTimer-0.2.2.zip" sparkle:edSignature="ZNl3xBWjcm1mwGV6nC5uEbSyAAz2UuN4DrNRTZXyVvfmlvvzgetMjjiYuFU3zjhgjqhIqTQPyyJZ6WkOw7PBDQ==" length="8447583" type="application/octet-stream" />
+    </item>
+    <item>
       <title>0.2.1</title>
       <pubDate>Thu, 29 Oct 2026 15:21:11 +0000</pubDate>
       <sparkle:version>133</sparkle:version>
