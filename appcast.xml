@@ -6,6 +6,16 @@
     <description>Big-Timer release feed</description>
     <language>en</language>
     <item>
+      <title>0.2.5</title>
+      <pubDate>Thu, 19 Nov 2026 21:55:08 +0000</pubDate>
+      <sparkle:version>150</sparkle:version>
+      <sparkle:shortVersionString>0.2.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/Big-Time-Data/big-timer-releases/releases/tag/v0.2.5</link>
+      <description>&lt;h3&gt;Big-Timer 0.2.5&lt;/h3&gt;&lt;p&gt;See the release page for details.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/Big-Time-Data/big-timer-releases/releases/download/v0.2.5/BigTimer-0.2.5.zip" sparkle:edSignature="WvOET+rHifWDZ88fu467AIMZPbD/XA5elV+1Ht6/3WXOAGL8WJ2/Xj/f9P7q9hjqWFUU6vZ17fupAZs2lJIoDg==" length="9400884" type="application/octet-stream" />
+    </item>
+    <item>
       <title>0.2.4</title>
       <pubDate>Thu, 19 Nov 2026 20:44:42 +0000</pubDate>
       <sparkle:version>148</sparkle:version>
@@ -94,16 +104,6 @@
       <link>https://github.com/Big-Time-Data/big-timer-releases/releases/tag/v0.1.2</link>
       <description>&lt;h3&gt;Big-Timer 0.1.2&lt;/h3&gt;&lt;p&gt;See the release page for details.&lt;/p&gt;</description>
       <enclosure url="https://github.com/Big-Time-Data/big-timer-releases/releases/download/v0.1.2/BigTimer-0.1.2.zip" sparkle:edSignature="0DyJBeZMx/N80GSqxGeUANtbOHcEv1WdfjfN0xjASx02vJfs+ga6/NhdHB5G3kfRTTK+ihxGMuFO21giMZotBw==" length="6580457" type="application/octet-stream" />
-    </item>
-    <item>
-      <title>0.1.1</title>
-      <pubDate>Thu, 22 Oct 2026 21:39:10 +0000</pubDate>
-      <sparkle:version>77</sparkle:version>
-      <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <link>https://github.com/Big-Time-Data/big-timer-releases/releases/tag/v0.1.1</link>
-      <description>&lt;h3&gt;Big-Timer 0.1.1&lt;/h3&gt;&lt;p&gt;See the release page for details.&lt;/p&gt;</description>
-      <enclosure url="https://github.com/Big-Time-Data/big-timer-releases/releases/download/v0.1.1/BigTimer-0.1.1.zip" sparkle:edSignature="QOdBCs24KLnP2swHIk+tVWzP/Y2DAIjTMwFJ8t9uF59iS5lOM/TXS6QljtIholrqyCEp07hn/AJqeppqDbyaBQ==" length="6580280" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
